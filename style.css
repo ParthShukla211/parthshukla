@@ -580,8 +580,8 @@ button.mainmenubutton:hover{
     /* border: 2px solid rgba(255, 228, 237, 1); */
     border: 5px solid black;
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
-    height: 18rem;
-    width: 21rem;
+    height: 15rem;
+    width: 15rem;
     background-color:crimson ;
   }
 
