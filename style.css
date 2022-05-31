@@ -455,11 +455,13 @@ button.mainmenubutton:hover{
  .btng1{
   display: flex;
   flex-direction: row;
+  margin-left: 5vh;
 }
 
 .btng2{
   display: flex;
   flex-direction: row;
+  margin-left: 5vh;
 } 
 .btng1 .btncontent{
   justify-content: space-between;
