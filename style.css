@@ -481,6 +481,7 @@ button.mainmenubutton:hover{
 
 .hidetext{
   display: block;
+  margin-left: 5vw;
 }
 .ham-btn{
   display: none;
