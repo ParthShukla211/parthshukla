@@ -533,7 +533,7 @@ button.mainmenubutton:hover{
   .sdbtn{
     display: inline;
     font-size: 15px;
-    margin-top: 87vh ;
+    margin-top: 81vh ;
     margin-left: 7vw;
     width: 59vw;
     height: 7vh;
@@ -735,7 +735,7 @@ button.mainmenubutton:hover{
 
   .crossbtn{
     /*margin-left: 210px; */
-    margin-left: 51vw;
+    margin-left: 61vw;
     font-size: 25px;
   }
 
