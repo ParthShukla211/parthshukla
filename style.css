@@ -4366,49 +4366,217 @@ footer span a:hover{
 
   @media (max-width: 850px) {
 
-    .mih1{font-size: 35px;}
+    .batch1{
+      margin-left: 9rem;
+      margin-right: 9rem;
+    }
+
+    .batch2{
+      margin-left: 9rem;
+      margin-right: 9rem;
+    }
+    
+  }
+
+  @media (max-width: 650px) {
 
     .titleint{
-      font-size: 40px;
+      font-size: 3rem;
     }
 
-    .batch1 .text{
-      font-size: 21px;
+    .exph1{
+      font-size: 3rem;
     }
 
-    .batch1 p{
-      font-size: 13px;
+    .exph2{
+      font-size: 1.5rem;
     }
 
-    .batch1 .box img{
-      height: 110px;
-      width: 110px;
+    .no{
+      font-size: 1rem;
     }
 
-    .batch2 .text{
-      font-size: 21px;
+    .batch1{
+      margin-left: 8rem;
+      margin-right: 9rem;
     }
 
-    .batch2 p{
-      font-size: 13px;
+    .batch2{
+      margin-left: 8rem;
+      margin-right: 9rem;
     }
-
-    .batch2 .box img{
-      height: 110px;
-      width: 110px;
-    }
-
-    .batch1 .btn{
-      font-size: 13px;
-      border-width: 5px;
-    }
-
-    .batch2 .btn{
-      font-size: 13px;
-      border-width: 5px;
-    }
-
+    
   }
+
+  @media (max-width: 550px) {
+
+    .titleint{
+      font-size: 2.5rem;
+    }
+
+    .exph1{
+      font-size: 2.5rem;
+    }
+
+    .exph2{
+      font-size: 1.5rem;
+    }
+
+    .no{
+      font-size: 1rem;
+    }
+
+    .batch1{
+      margin-left: 6.5rem;
+      margin-right: 7rem;
+    }
+
+    .batch2{
+      margin-left: 6.5rem;
+      margin-right: 7rem;
+    }
+    
+  }
+
+  @media (max-width: 500px) {
+
+    .titleint{
+      font-size: 2.5rem;
+    }
+
+    .exph1{
+      font-size: 2.5rem;
+    }
+
+    .exph2{
+      font-size: 1.5rem;
+    }
+
+    .no{
+      font-size: 1rem;
+    }
+
+    .batch1{
+      margin-left: 6rem;
+      margin-right: 7rem;
+    
+    }
+
+    .batch2{
+      margin-left: 6rem;
+      margin-right: 7rem;
+    }
+    
+  }
+
+  @media (max-width: 450px) {
+
+    .titleint{
+      font-size: 2.5rem;
+    }
+
+    .exph1{
+      font-size: 2.5rem;
+    }
+
+    .exph2{
+      font-size: 1.5rem;
+    }
+
+    .no{
+      font-size: 1rem;
+    }
+
+    .batch1{
+      margin-left: 5rem;
+      margin-right: 7rem;
+    
+    }
+
+    .batch2{
+      margin-left: 5rem;
+      margin-right: 7rem;
+    }
+    
+  }
+
+  @media (max-width: 400px) {
+
+    .titleint{
+      font-size: 2.3rem;
+    }
+
+    .exph1{
+      font-size: 2.3rem;
+    }
+
+    .exph2{
+      font-size: 1.3rem;
+    }
+
+    .no{
+      font-size: 1rem;
+    }
+
+
+    .batch1{
+      margin-left: 5rem;
+      margin-right: 7rem;
+    
+    }
+
+    .batch2{
+      margin-left: 5rem;
+      margin-right: 7rem;
+    }
+    
+  }
+
+  @media (max-width: 350px) {
+
+    .titleint{
+      font-size: 2rem;
+    }
+
+    .exph1{
+      font-size: 2rem;
+    }
+    .exph2{
+      font-size: 1rem;
+    }
+
+    .no{
+      font-size: 0.6rem;
+    }
+
+    .batch1{
+      margin-left: 4rem;
+      margin-right: 7rem;
+    
+    }
+
+    .batch2{
+      margin-left: 4rem;
+      margin-right: 7rem;
+    }
+    
+  }
+
+  @media (max-width: 300px) {
+
+    .batch1{
+      margin-left: 3rem;
+      margin-right: 7rem;
+    
+    }
+
+    .batch2{
+      margin-left: 3rem;
+      margin-right: 7rem;
+    }
+    
+  }
+
 
 
   /* media experiences */
