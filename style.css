@@ -1011,7 +1011,7 @@ button.mainmenubutton:hover{
   font-size: 120%;
   margin-top: 15px;
   margin-left: 15px;
-  margin-bottom: 8.3rem;
+  margin-bottom: 7rem;
   color: white;
 }
 
@@ -1089,7 +1089,7 @@ button.mainmenubutton:hover{
   font-size: 120%;
   margin-top: 15px;
   margin-left: 15px;
-  margin-bottom: 8.3rem;
+  margin-bottom: 7rem;
   color: crimson;
 }
 
@@ -4038,10 +4038,11 @@ footer span a:hover{
 
   /* media myprojects */
 
- @media (max-width: 900px) {
+   @media (max-width: 900px) {
 
     .titlepro{
       font-size: 3rem;
+      margin-left: 1rem;
     }
 
     .titlepro1{
@@ -4054,7 +4055,31 @@ footer span a:hover{
     }
 
     .cardpro2{
-      margin-left: 3rem;
+      margin-left: 4rem;
+      margin-right: 5rem;
+    }
+
+  }
+
+  @media (max-width: 850px) {
+
+    .titlepro{
+      font-size: 2.5rem;
+      margin-left: 0.5rem;
+    }
+
+    .titlepro1{
+      font-size: 2rem;
+    }
+
+    .cardpro1{
+      margin-left: 3.5rem;
+      margin-right: 4.5rem;
+    }
+
+    .cardpro2{
+      margin-left: 3.5rem;
+      margin-right: 4.5rem;
     }
 
   }
@@ -4062,20 +4087,45 @@ footer span a:hover{
   @media (max-width: 800px) {
 
     .titlepro{
-      font-size: 3rem;
+      font-size: 2.5rem;
+      margin-left: 0.5rem;
     }
 
     .titlepro1{
-      font-size: 2.5rem;
+      font-size: 2rem;
     }
 
     .cardpro1{
-      margin-left: 3rem;
-      margin-right: 4rem;
+      margin-left: 2.5rem;
+      margin-right: 3.5rem;
     }
 
     .cardpro2{
-      margin-left: 2rem;
+      margin-left: 2.5rem;
+      margin-right: 3.5rem;
+    }
+
+  }
+
+  @media (max-width: 750px) {
+
+    .titlepro{
+      font-size: 3rem;
+      margin-left: 0rem;
+    }
+
+    .titlepro1{
+      font-size: 2rem;
+    }
+
+    .cardpro1{
+      margin-left: 1.5rem;
+      margin-right: 2.5rem;
+    }
+
+    .cardpro2{
+      margin-left: 1.5rem;
+      margin-right: 2.5rem;
     }
 
   }
@@ -4084,19 +4134,44 @@ footer span a:hover{
 
     .titlepro{
       font-size: 3rem;
+      margin-left: 0.5rem;
     }
 
     .titlepro1{
-      font-size: 2.5rem;
+      font-size: 2rem;
     }
 
     .cardpro1{
-      margin-left: 11rem;
-     
+      margin-left: 1rem;
+      margin-right: 2rem;
     }
 
     .cardpro2{
-      margin-left: 11rem;
+      margin-left: 1rem;
+      margin-right: 2rem;
+    }
+
+  }
+
+  @media (max-width: 650px) {
+
+    .titlepro{
+      font-size: 3rem;
+      margin-left: 0.5rem;
+    }
+
+    .titlepro1{
+      font-size: 2rem;
+    }
+
+    .cardpro1{
+      margin-left: 0rem;
+      margin-right: 1rem;
+    }
+
+    .cardpro2{
+      margin-left: 0rem;
+      margin-right: 1rem;
     }
 
   }
@@ -4104,20 +4179,45 @@ footer span a:hover{
   @media (max-width: 600px) {
 
     .titlepro{
-      font-size: 3rem;
+      font-size: 2.5rem;
+      margin-left: 0.5rem;
     }
 
     .titlepro1{
-      font-size: 2.5rem;
+      font-size: 2rem;
     }
 
     .cardpro1{
-      margin-left: 9rem;
-     
+      margin-left: 8rem;
+      margin-right: 7rem;
     }
 
     .cardpro2{
-      margin-left: 9rem;
+      margin-left: 8rem;
+      margin-right: 7rem;
+    }
+
+  }
+
+  @media (max-width: 550px) {
+
+    .titlepro{
+      font-size: 2.3rem;
+      margin-left: 0.5rem;
+    }
+
+    .titlepro1{
+      font-size: 1.7rem;
+    }
+
+    .cardpro1{
+      margin-left: 7rem;
+      margin-right: 6rem;
+    }
+
+    .cardpro2{
+      margin-left: 7rem;
+      margin-right: 6rem;
     }
 
   }
@@ -4125,20 +4225,45 @@ footer span a:hover{
   @media (max-width: 500px) {
 
     .titlepro{
-      font-size: 3rem;
+      font-size: 2.3rem;
+      margin-left: 0.5rem;
     }
 
     .titlepro1{
-      font-size: 2.5rem;
+      font-size: 1.7rem;
     }
 
     .cardpro1{
-      margin-left: 7rem;
-     
+      margin-left: 6rem;
+      margin-right: 5rem;
     }
 
     .cardpro2{
-      margin-left: 7rem;
+      margin-left: 6rem;
+      margin-right: 5rem;
+    }
+
+  }
+
+  @media (max-width: 450px) {
+
+    .titlepro{
+      font-size: 2.3rem;
+      margin-left: 2rem;
+    }
+
+    .titlepro1{
+      font-size: 1.7rem;
+    }
+
+    .cardpro1{
+      margin-left: 5rem;
+      margin-right: 4rem;
+    }
+
+    .cardpro2{
+      margin-left: 5rem;
+      margin-right: 4rem;
     }
 
   }
@@ -4146,42 +4271,91 @@ footer span a:hover{
   @media (max-width: 400px) {
 
     .titlepro{
-      font-size: 3rem;
+      font-size: 2.1rem;
+      margin-left: 3rem;
     }
 
     .titlepro1{
-      font-size: 2.5rem;
+      font-size: 1.5rem;
     }
 
     .cardpro1{
-      margin-left: 5rem;
-     
+      margin-left: 4rem;
+      margin-right: 3rem;
     }
 
     .cardpro2{
-      margin-left: 5rem;
+      margin-left: 4rem;
+      margin-right: 3rem;
     }
 
   }
 
-
-  @media (max-width: 300px) {
+  @media (max-width: 350px) {
 
     .titlepro{
-      font-size: 3rem;
+      font-size: 2.1rem;
+      margin-left: 3rem;
     }
 
     .titlepro1{
-      font-size: 2.5rem;
+      font-size: 1.3rem;
     }
 
     .cardpro1{
       margin-left: 3rem;
-     
+      margin-right: 2rem;
     }
 
     .cardpro2{
       margin-left: 3rem;
+      margin-right: 2rem;
+    }
+
+  }
+
+  @media (max-width: 300px) {
+
+    .titlepro{
+      font-size: 2.1rem;
+      margin-left: 3rem;
+    }
+
+    .titlepro1{
+      font-size: 1.3rem;
+    }
+
+    .cardpro1{
+      margin-left: 2rem;
+      margin-right: 1rem;
+    }
+
+    .cardpro2{
+      margin-left: 2rem;
+      margin-right: 1rem;
+    }
+
+  }
+
+  @media (max-width: 250px) {
+
+    .titlepro{
+      font-size: 2.1rem;
+      margin-left: 3rem;
+    }
+
+    .titlepro1{
+      font-size: 1.3rem;
+    }
+
+    .cardpro1{
+      margin-left: 1rem;
+      margin-right: 0rem;
+    }
+
+    .cardpro2{
+      margin-left: 1rem;
+      margin-right: 0rem;
     }
 
   }
