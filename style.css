@@ -4800,6 +4800,10 @@ footer span a:hover{
     .titleteams{
       font-size: 1.2rem;
     }
+      
+      .titleteams2{
+      font-size: 1rem;
+    }
 
     .teams .card1{
       width: 130%;
@@ -4818,7 +4822,7 @@ footer span a:hover{
     }
 
     .titleteams2{
-      font-size: 1.1rem;
+      font-size: 0.8rem;
     }
 
     .teams .card1{
@@ -4838,7 +4842,7 @@ footer span a:hover{
     }
 
     .titleteams2{
-      font-size: 0rem;
+      font-size: 0.5rem;
     }
 
     .teams .card1{
