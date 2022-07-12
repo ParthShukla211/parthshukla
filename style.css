@@ -4782,7 +4782,7 @@ footer span a:hover{
 
   @media (max-width: 500px) {
     .titleteams{
-      font-size: 1.6rem;
+      font-size: 1.5rem;
     }
 
     .teams .card1{
@@ -4798,7 +4798,7 @@ footer span a:hover{
 
   @media (max-width: 400px) {
     .titleteams{
-      font-size: 1.6rem;
+      font-size: 1.4rem;
     }
 
     .teams .card1{
@@ -4814,7 +4814,7 @@ footer span a:hover{
 
   @media (max-width: 350px) {
     .titleteams{
-      font-size: 1.35rem;
+      font-size: 1.25rem;
     }
 
     .titleteams2{
