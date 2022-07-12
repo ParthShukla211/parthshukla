@@ -2959,7 +2959,7 @@ color: white;
 /* BATCHS WALA PART */
 
 .batchtitle{
-  margin-left: 110px;
+  margin-left: -2rem;
   font-size: 25;
   margin-top: 30px;
   margin-bottom: 15px;
@@ -3127,7 +3127,7 @@ border-color: white;
 /* BATCHS CERTIFICATE WALA PART */
 
 .batchcertificatetitle{
-  margin-left: 110px;
+  margin-left: -2rem;
   font-size: 25;
   margin-top: 30px;
   margin-bottom: 15px;
@@ -4635,12 +4635,12 @@ footer span a:hover{
 
   /* media certificates */
 
-  @media (max-width: 850px) {
+  @media (max-width: 900px) {
 
 
-    .teams .titleteams{
+    /* .teams .titleteams{
       font-size: 29px ;
-    }
+    } */
 
     .teams .titleteams2{
       font-size: 23px ;
@@ -4697,8 +4697,8 @@ footer span a:hover{
 
 
     .batchtitle{
-      font-size: 23px ;
-      margin-left: 41px;
+      font-size: 1.5rem ;
+      margin-left: -2rem;
     }
 
     .batch1 .box img{
@@ -4708,7 +4708,7 @@ footer span a:hover{
 
     .batch1{
       width: 63%;
-      margin-left: 73px;
+      /* margin-left: 73px; */
     }
 
     .batch1 .box .text{
@@ -4732,7 +4732,7 @@ footer span a:hover{
 
     .batch2{
       width: 63%;
-      margin-left: 73px;
+   
     }
 
     .batch2 .box .text{
@@ -4750,8 +4750,8 @@ footer span a:hover{
 
 
     .batchcertificatetitle{
-      font-size: 23px ;
-      margin-left: 41px;
+      font-size: 1.1rem ;
+      margin-left: -2rem;
     }
 
     .batchcertificate1 .box img{
@@ -4779,6 +4779,81 @@ footer span a:hover{
 
 
   }
+
+  @media (max-width: 500px) {
+    .titleteams{
+      font-size: 1.6rem;
+    }
+
+    .teams .card1{
+      width: 130%;
+      margin-left: -2rem;
+    }
+
+    .teams .card2{
+      width: 130%;
+      margin-left: -2rem;
+    }
+  }
+
+  @media (max-width: 400px) {
+    .titleteams{
+      font-size: 1.6rem;
+    }
+
+    .teams .card1{
+      width: 130%;
+      margin-left: -2rem;
+    }
+
+    .teams .card2{
+      width: 130%;
+      margin-left: -2rem;
+    }
+  }
+
+  @media (max-width: 350px) {
+    .titleteams{
+      font-size: 1.35rem;
+    }
+
+    .titleteams2{
+      font-size: 1.1rem;
+    }
+
+    .teams .card1{
+      width: 150%;
+      margin-left: -3rem;
+    }
+
+    .teams .card2{
+      width: 150%;
+      margin-left: -3rem;
+    }
+  }
+
+  @media (max-width: 300px) {
+    .titleteams{
+      font-size: 1.1rem;
+    }
+
+    .titleteams2{
+      font-size: 0rem;
+    }
+
+    .teams .card1{
+      width: 160%;
+      margin-left: -3.5rem;
+    }
+
+    .teams .card2{
+      width: 160%;
+      margin-left: -3.5rem;
+    }
+  }
+
+ 
+
 
 
   /* media aboutme */
