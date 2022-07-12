@@ -4042,22 +4042,23 @@ footer span a:hover{
 
   /* media myprojects */
 
-  @media (max-width: 850px) {
+ @media (max-width: 900px) {
 
     .titlepro{
-      font-size: 35px;
+      font-size: 3rem;
     }
 
     .titlepro1{
-      font-size: 25px;
+      font-size: 2.5rem;
     }
 
     .cardpro1{
-      margin-left: 43px;
+      margin-left: 4rem;
+      margin-right: 5rem;
     }
 
     .cardpro2{
-      margin-left: 43px;
+      margin-left: 3rem;
     }
 
   }
@@ -4065,20 +4066,127 @@ footer span a:hover{
   @media (max-width: 800px) {
 
     .titlepro{
-      font-size: 31px;
+      font-size: 3rem;
     }
 
     .titlepro1{
-      font-size: 21px;
+      font-size: 2.5rem;
     }
 
     .cardpro1{
-      margin-left: 25px;
+      margin-left: 3rem;
+      margin-right: 4rem;
     }
 
     .cardpro2{
-      margin-left: 25px;
-    } 
+      margin-left: 2rem;
+    }
+
+  }
+
+  @media (max-width: 700px) {
+
+    .titlepro{
+      font-size: 3rem;
+    }
+
+    .titlepro1{
+      font-size: 2.5rem;
+    }
+
+    .cardpro1{
+      margin-left: 11rem;
+     
+    }
+
+    .cardpro2{
+      margin-left: 11rem;
+    }
+
+  }
+
+  @media (max-width: 600px) {
+
+    .titlepro{
+      font-size: 3rem;
+    }
+
+    .titlepro1{
+      font-size: 2.5rem;
+    }
+
+    .cardpro1{
+      margin-left: 9rem;
+     
+    }
+
+    .cardpro2{
+      margin-left: 9rem;
+    }
+
+  }
+
+  @media (max-width: 500px) {
+
+    .titlepro{
+      font-size: 3rem;
+    }
+
+    .titlepro1{
+      font-size: 2.5rem;
+    }
+
+    .cardpro1{
+      margin-left: 7rem;
+     
+    }
+
+    .cardpro2{
+      margin-left: 7rem;
+    }
+
+  }
+
+  @media (max-width: 400px) {
+
+    .titlepro{
+      font-size: 3rem;
+    }
+
+    .titlepro1{
+      font-size: 2.5rem;
+    }
+
+    .cardpro1{
+      margin-left: 5rem;
+     
+    }
+
+    .cardpro2{
+      margin-left: 5rem;
+    }
+
+  }
+
+
+  @media (max-width: 300px) {
+
+    .titlepro{
+      font-size: 3rem;
+    }
+
+    .titlepro1{
+      font-size: 2.5rem;
+    }
+
+    .cardpro1{
+      margin-left: 3rem;
+     
+    }
+
+    .cardpro2{
+      margin-left: 3rem;
+    }
 
   }
 
