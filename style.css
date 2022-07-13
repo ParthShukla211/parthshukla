@@ -4992,8 +4992,7 @@ footer span a:hover{
 
   @media (max-width: 900px) {
 
-    html,
-    body{
+    .contact{
       width:100%;
       overflow-x:hidden;
     }
@@ -5412,8 +5411,7 @@ footer span a:hover{
       width: 300px;
     }
 
-    html,
-    body{
+    .skills{
       width:100%;
       overflow-x:hidden;
     }
