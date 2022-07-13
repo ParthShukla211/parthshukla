@@ -5297,7 +5297,7 @@ footer span a:hover{
 
     }
       
-          section .title::after {
+   section .title::after {
       display: none;
       position: absolute;
       bottom: -8px;
@@ -5326,16 +5326,6 @@ footer span a:hover{
       
     }
 
-    section .title::after {
-      position: absolute;
-      bottom: -8px;
-      left: 50%;
-      font-size: 18px;
-      color: crimson;
-      padding: 0 5px;
-      background: rgb(255, 255, 255);
-      transform: translateX(-50%);
-  }
 
 
 
@@ -5382,7 +5372,7 @@ footer span a:hover{
       
     }
 
-    section .title::after {
+  section .title::after {
       display: none;
       position: absolute;
       bottom: -8px;
