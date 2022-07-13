@@ -5994,8 +5994,18 @@ footer span a:hover{
 
   @media (max-width: 450px) {
 
-    .max-width .title{
-      margin-left: -5rem;
+        .max-width .title{
+      margin-left: 0rem;
+      margin-bottom: 2rem;
+      color: crimson;
+    }
+
+    .max-width .title::after{
+      display: none;
+    }
+
+    .max-width .title::before{
+      display: none;
     }
 
     .skills .skills-content .column.left {
@@ -6027,7 +6037,7 @@ footer span a:hover{
   @media (max-width: 400px) {
 
     .max-width .title{
-      margin-left: -5rem;
+      margin-left: 0rem;
     }
 
     .skills .skills-content .column.left {
