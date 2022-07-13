@@ -5832,7 +5832,7 @@ footer span a:hover{
               
               
               
-.contact .max-width .cuf img{
+.contact .max-width .cuf a img{
   width: 2.5rem;
   height: auto;
   margin-top: 1rem;
@@ -5840,7 +5840,7 @@ footer span a:hover{
   margin-left: 1rem;
 }
 
-.contact .max-width .cuf img:hover{
+.contact .max-width .cuf a img:hover{
   transform: scale(1.1);
   transition: all 0.3s ease;
 }
@@ -5851,7 +5851,7 @@ footer span a:hover{
     margin-left: 5rem;
   }
 
-  .contact .max-width .cuf img{
+  .contact .max-width .cuf a img{
     margin-right: 0.1rem;
     margin-left: 0.3rem;
   }
@@ -5864,7 +5864,7 @@ footer span a:hover{
     margin-left: 3rem;
   }
 
-  .contact .max-width .cuf img{
+  .contact .max-width .cuf a img{
     width: 2rem;
     height: auto;
     margin-right: 0.1rem;
@@ -5879,7 +5879,7 @@ footer span a:hover{
     margin-left: 1rem;
   }
 
-  .contact .max-width .cuf img{
+  .contact .max-width .cuf a img{
     width: 2rem;
     height: auto;
     margin-right: 0.1rem;
@@ -5894,7 +5894,7 @@ footer span a:hover{
     margin-left: -1rem;
   }
 
-  .contact .max-width .cuf img{
+  .contact .max-width .cuf a img{
     width: 2rem;
     height: auto;
     margin-right: 0.1rem;
@@ -5909,7 +5909,7 @@ footer span a:hover{
     margin-left: -3rem;
   }
 
-  .contact .max-width .cuf img{
+  .contact .max-width .cuf a img{
     width: 2rem;
     height: auto;
     margin-right: 0.1rem;
@@ -5924,7 +5924,7 @@ footer span a:hover{
     margin-left: -4rem;
   }
 
-  .contact .max-width .cuf img{
+  .contact .max-width .cuf a img{
     width: 2rem;
     height: auto;
     margin-right: 0.1rem;
@@ -5939,7 +5939,7 @@ footer span a:hover{
     margin-left: -4rem;
   }
 
-  .contact .max-width .cuf img{
+  .contact .max-width .cuf a img{
     width: 1.5rem;
     height: auto;
     margin-right: 0.1rem;
@@ -5954,7 +5954,7 @@ footer span a:hover{
     margin-left: -3rem;
   }
 
-  .contact .max-width .cuf img{
+  .contact .max-width .cuf a img{
     width: 1.5rem;
     height: auto;
     margin-right: 0rem;
