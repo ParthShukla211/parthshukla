@@ -4091,6 +4091,19 @@ footer span a:hover{
 
   /* media myprojects */
 
+@media (max-width: 900px) {
+    
+    .cardpro-text1{
+        margin-bottom:7rem
+    }
+    
+    .cardpro-text2{
+        margin-bottom:7rem
+    }
+    
+
+}
+
    @media (max-width: 900px) {
 
     .titlepro{
