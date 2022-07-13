@@ -580,7 +580,7 @@ button.mainmenubutton:hover{
   .sdbtn{
     display: inline;
     font-size: 15px;
-    margin-top: 84vh ;
+    margin-top: 81vh ;
     margin-left: 7vw;
     width: 59vw;
     height: 7vh;
@@ -710,7 +710,7 @@ button.mainmenubutton:hover{
   
 
   .home .home-content #homet1{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
   
   .home-content #homet2{
