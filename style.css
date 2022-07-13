@@ -5867,13 +5867,14 @@ footer span a:hover{
     }
 
     .skills .skills-content .column.left p{
+      width:91vw;
       font-size: 18px;
     }
 
     .skills .column.right{
       margin-top: 41px;
       /* margin-right: 91px; */
-      width: 95vw;
+      min-width: 95vw;
       margin-left: -4rem;
     }
 /* 
