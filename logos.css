@@ -20,18 +20,18 @@
   
     .contact .max-width .cuf{
       margin-left: 5rem;
-      display:none
+      display: none;
     }
   
     .contact .max-width .cuf img{
       margin-right: 0.1rem;
       margin-left: 0.3rem;
-      display:none
+      display: none;
     }
   
   }
   
-/*   @media (max-width: 600px) {
+  /* @media (max-width: 600px) {
   
     .contact .max-width .cuf{
       margin-left: 3rem;
@@ -128,10 +128,10 @@
     }
   
     .contact .max-width .cuf img{
-      width: 2rem;
+      width: 2.3rem;
       height: auto;
-      margin-right: -0.3rem;
-      margin-left: 0.5rem;
+      margin-right: -0.9rem;
+      margin-left: 1.1rem;
     }
   
   }
@@ -151,7 +151,7 @@
   
   }
 
-  @media (max-width: 365px) {
+  @media (max-width: 360px) {
 
 
   
@@ -198,5 +198,4 @@
       margin-left: 0.6rem;
     }
   
-  }
- */
+  } */
