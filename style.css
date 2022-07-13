@@ -4410,17 +4410,16 @@ footer span a:hover{
 
   /* media internhips */
 
-
   @media (max-width: 850px) {
 
     .batch1{
-      margin-left: 9rem;
-      margin-right: 9rem;
+      margin-left: 7rem;
+      margin-right: 7rem;
     }
 
     .batch2{
-      margin-left: 9rem;
-      margin-right: 9rem;
+      margin-left: 7rem;
+      margin-right: 7rem;
     }
     
   }
@@ -4444,13 +4443,13 @@ footer span a:hover{
     }
 
     .batch1{
-      margin-left: 8rem;
-      margin-right: 9rem;
+      margin-left: 5rem;
+      margin-right: 5rem;
     }
 
     .batch2{
-      margin-left: 8rem;
-      margin-right: 9rem;
+      margin-left: 5rem;
+      margin-right: 5rem;
     }
     
   }
@@ -4474,13 +4473,13 @@ footer span a:hover{
     }
 
     .batch1{
-      margin-left: 6.5rem;
-      margin-right: 7rem;
+      margin-left: 4rem;
+      margin-right: 4rem;
     }
 
     .batch2{
-      margin-left: 6.5rem;
-      margin-right: 7rem;
+      margin-left: 4rem;
+      margin-right: 4rem;
     }
     
   }
@@ -4504,14 +4503,15 @@ footer span a:hover{
     }
 
     .batch1{
-      margin-left: 6rem;
-      margin-right: 7rem;
+      margin-left: 3rem;
+      margin-right: 3rem;
+      
     
     }
 
     .batch2{
-      margin-left: 6rem;
-      margin-right: 7rem;
+      margin-left: 3rem;
+      margin-right: 3rem;
     }
     
   }
@@ -4535,14 +4535,14 @@ footer span a:hover{
     }
 
     .batch1{
-      margin-left: 5rem;
-      margin-right: 7rem;
+      margin-left: 3.5rem;
+      margin-right: 3.5rem;
     
     }
 
     .batch2{
-      margin-left: 5rem;
-      margin-right: 7rem;
+      margin-left: 3.5rem;
+      margin-right: 3.5rem;
     }
     
   }
@@ -4567,14 +4567,14 @@ footer span a:hover{
 
 
     .batch1{
-      margin-left: 5rem;
-      margin-right: 7rem;
+      margin-left: 3rem;
+      margin-right: 3rem;
     
     }
 
     .batch2{
-      margin-left: 5rem;
-      margin-right: 7rem;
+      margin-left: 3rem;
+      margin-right: 3rem;
     }
     
   }
@@ -4597,14 +4597,16 @@ footer span a:hover{
     }
 
     .batch1{
-      margin-left: 4rem;
-      margin-right: 7rem;
+      margin-left: 2rem;
+      margin-right: 2rem;
+      min-width: 79%;
     
     }
 
     .batch2{
-      margin-left: 4rem;
-      margin-right: 7rem;
+      margin-left: 2rem;
+      margin-right: 2rem;
+      min-width: 79%;
     }
     
   }
@@ -4612,14 +4614,16 @@ footer span a:hover{
   @media (max-width: 300px) {
 
     .batch1{
-      margin-left: 3rem;
-      margin-right: 7rem;
+      margin-left: 2rem;
+      margin-right: 1rem;
+      min-width: 79%;
     
     }
 
     .batch2{
-      margin-left: 3rem;
-      margin-right: 7rem;
+      margin-left: 2rem;
+      margin-right: 1rem;
+      min-width: 79%;
     }
     
   }
