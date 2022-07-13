@@ -203,13 +203,59 @@ section .title::after{
 @media (max-width: 950px) {
 
   .ph1{
-    font-size: 35px ;
+    font-size: 3rem ;
   }
 
   .pimg img{
     width:55vw;
-    height:30vh;
-    margin-left: 25vw;
+    height:auto;
+    border-radius: 15px;
+    margin-left: 23vw;
+  }
+
+  .pinfo{
+    font-size: 2rem;
+    margin-top: 5rem;
+  }
+
+}
+
+@media (max-width: 750px) {
+
+  .ph1{
+    font-size: 2rem ;
+  }
+
+  .pimg img{
+    width:45vw;
+    height:auto;
+    border-radius: 15px;
+    margin-left: 27vw;
+  }
+
+  .pinfo{
+    font-size: 1.5rem;
+    margin-top: 5rem;
+  }
+
+}
+
+@media (max-width: 400px) {
+
+  .ph1{
+    font-size: 1.7rem ;
+  }
+
+  .pimg img{
+    width:55vw;
+    height:auto;
+    border-radius: 15px;
+    margin-left: 23vw;
+  }
+
+  .pinfo{
+    font-size: 1.5rem;
+    margin-top: 5rem;
   }
 
 }
@@ -220,6 +266,7 @@ section .title::after{
 
   .logo{
     margin-left: 7vw;
+    
   }
   
   .max-width .logo a img{
@@ -229,14 +276,12 @@ section .title::after{
   }
 
   .max-width .logo a .ps {
-    margin-top: 0.6vh;
+    margin-top: 0.8vh;
+    font-size: 1.7rem;
   }
 
 
 }
-
-
-
 
 
 /* hamb */
