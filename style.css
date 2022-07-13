@@ -4943,7 +4943,33 @@ footer span a:hover{
   /* media contactme */
 
 
-  @media (max-width: 850px) {
+  @media (max-width: 900px) {
+
+    html,
+    body{
+      width:100%;
+      overflow-x:hidden;
+    }
+
+    .contact .max-width .contact-content .column.left {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -1rem;
+      
+    }
+
+    .contact .max-width .contact-content .column.right {
+      width: 301px;
+      font-size: 21px;
+      margin-left: 5rem;
+      
+    }
+
+    .contact .max-width h2{
+      /* margin-left: -23rem;
+      font-size: 2.5rem;
+       */
+    }
 
     .contact .max-width .contact-content .column.left .cmtext .text{
       width: 301px;
@@ -4968,6 +4994,364 @@ footer span a:hover{
       margin-bottom:11px;
     }
 
+
+  }
+
+
+
+  @media (max-width: 900px) {
+
+    html,
+    body, .contact{
+      width:100%;
+      overflow-x:hidden;
+      position: relative;
+    }
+
+  }
+
+  @media (max-width: 830px) {
+
+    .contact{
+      width:100%;
+      overflow-x:hidden;
+      position: relative;
+    }
+
+    .contact .max-width .contact-content .column.left {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -2rem;
+      
+    }
+
+    .contact .max-width .contact-content .column.right {
+      width: 301px;
+      font-size: 21px;
+      margin-left: 4rem;
+      
+    }
+
+
+  }
+
+  @media (max-width: 790px) {
+
+    .contact{
+      width:100%;
+      overflow-x:hidden;
+      position: relative;
+    }
+
+    .contact .max-width .contact-content .column.left {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -3rem;
+      
+    }
+
+    .contact .max-width .contact-content .column.right {
+      width: 301px;
+      font-size: 21px;
+      margin-left: 3rem;
+      
+    }
+
+    .contact .max-width h2{
+      margin-left: -5rem;
+      font-size: 2.5rem;
+      
+    }
+  }
+
+    @media (max-width: 750px) {
+
+      .contact{
+        width:100%;
+        overflow-x:hidden;
+        position: relative;
+      }
+  
+      .contact .max-width .contact-content .column.left {
+        width: 301px;
+        font-size: 21px;
+        margin-left: -3rem;
+        
+      }
+  
+      .contact .max-width .contact-content .column.right {
+        width: 301px;
+        font-size: 21px;
+        margin-left: 2rem;
+        margin-right: -1rem;
+        
+      }
+  
+      .contact .max-width h2{
+        margin-left: -5rem;
+        font-size: 2.5rem;
+        
+      }
+    }
+
+    @media (max-width: 730px) {
+
+      .contact{
+        width:100%;
+        overflow-x:hidden;
+        position: relative;
+      }
+  
+      .contact .max-width .contact-content .column.left {
+        width: 301px;
+        font-size: 21px;
+        margin-left: 7rem;
+        
+      }
+  
+      .contact .max-width .contact-content .column.right {
+        width: 301px;
+        font-size: 21px;
+        margin-left: 7rem;
+        margin-right: rem;
+        
+      }
+  
+      .contact .max-width h2{
+        margin-left: -5rem;
+        font-size: 2.5rem;
+        
+      }
+    }
+
+      @media (max-width: 700px) {
+
+        .contact{
+          width:100%;
+          overflow-x:hidden;
+          position: relative;
+        }
+    
+        .contact .max-width .contact-content .column.left {
+          width: 301px;
+          font-size: 21px;
+          margin-left: 5rem;
+          
+          
+        }
+    
+        .contact .max-width .contact-content .column.right {
+          width: 301px;
+          font-size: 21px;
+          margin-left: 5rem;
+          
+          
+        }
+    
+        .contact .max-width h2{
+          /* margin-left: -19rem; */
+          font-size: 2.2rem;
+          
+        }
+      }
+        @media (max-width: 600px) {
+
+          .contact{
+            width:100%;
+            overflow-x:hidden;
+            position: relative;
+          }
+      
+          .contact .max-width .contact-content .column.left {
+            width: 301px;
+            font-size: 21px;
+            margin-left: 4rem;
+            
+            
+          }
+      
+          .contact .max-width .contact-content .column.right {
+            width: 301px;
+            font-size: 21px;
+            margin-left: 4rem;
+            
+            
+          }
+        }
+      
+          .contact .max-width h2{
+            /* margin-left: -19rem; */
+            font-size: 2.2rem;
+            
+          }
+
+          @media (max-width: 550px) {
+
+            .contact{
+              width:100%;
+              overflow-x:hidden;
+              position: relative;
+            }
+        
+            .contact .max-width .contact-content .column.left {
+              width: 301px;
+              font-size: 21px;
+              margin-left: 2rem;
+              
+              
+            }
+        
+            .contact .max-width .contact-content .column.right {
+              width: 301px;
+              font-size: 21px;
+              margin-left: 2rem;
+              
+              
+            }
+        
+            .contact .max-width h2{
+              /* margin-left: -19rem; */
+              font-size: 2.2rem;
+              
+            }
+
+            @media (max-width: 500px) {
+
+              .contact{
+                width:100%;
+                overflow-x:hidden;
+                position: relative;
+              }
+          
+              .contact .max-width .contact-content .column.left {
+                width: 301px;
+                font-size: 21px;
+                margin-left: 0rem;
+                
+                
+              }
+          
+              .contact .max-width .contact-content .column.right {
+                width: 301px;
+                font-size: 21px;
+                margin-left: 0rem;
+                
+                
+              }
+          
+              .contact .max-width h2{
+                /* margin-left: -19rem; */
+                font-size: 2.2rem;
+                
+              }
+
+            
+
+
+  }
+
+  @media (max-width: 450px) {
+
+    .contact .max-width .contact-content .column.left {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -2rem;
+      
+      
+    }
+
+    .contact .max-width .contact-content .column.right {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -2rem;
+      
+      
+    }
+
+    .contact .max-width h2{
+      margin-left: -2rem;
+      font-size: 2.2rem;
+      
+    }
+
+  }
+
+  
+  @media (max-width: 400px) {
+
+    .contact .max-width .contact-content .column.left {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -3rem;
+      
+      
+    }
+
+    .contact .max-width .contact-content .column.right {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -3rem;
+      
+      
+    }
+
+    .contact .max-width h2{
+      margin-left: -3rem;
+      font-size: 2.2rem;
+      
+    }
+
+  }
+
+  @media (max-width: 350px) {
+
+    .contact .max-width .contact-content .column.left {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -4rem;
+      
+      
+    }
+
+    .contact .max-width .contact-content .column.right {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -4rem;
+      
+      
+    }
+
+    .contact .max-width h2{
+      margin-left: -4rem;
+      font-size: 2.2rem;
+      
+    }
+
+  }
+
+  @media (max-width: 300px) {
+
+    .contact .max-width .contact-content .column.left {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -5rem;
+      
+      
+    }
+
+    .contact .max-width .contact-content .column.right {
+      width: 301px;
+      font-size: 21px;
+      margin-left: -5rem;
+      
+      
+    }
+
+    .contact .max-width h2{
+      margin-left: -5rem;
+      font-size: 2.2rem;
+      
+    }
 
   }
 
