@@ -494,9 +494,9 @@ button.mainmenubutton:hover{
 .tcross{
   display: none;
   font-size: 25px;
-  margin-top: 50px;
-  margin-bottom: 2001px;
-  margin-left: -190px;
+  margin-top: 5rem;
+  margin-bottom: 131rem;
+  margin-left: 0rem;
 }
 
 .imgpart{
@@ -534,7 +534,7 @@ button.mainmenubutton:hover{
   .sdbtn{
     display: inline;
     font-size: 15px;
-    margin-top: 91.3vh ;
+    margin-top: 89.5vh ;
     margin-left: 7vw;
     width: 59vw;
     height: 7vh;
