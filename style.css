@@ -4868,7 +4868,9 @@ footer span a:hover{
 
   @media (max-width: 400px) {
     .titleteams{
-      font-size: 1.2rem;
+    font-size: 2.3rem;
+    min-width: 95vw;
+    margin-left: -4rem;
     }
       
       .titleteams2{
@@ -4888,7 +4890,9 @@ footer span a:hover{
 
   @media (max-width: 350px) {
     .titleteams{
-      font-size: 1.1rem;
+    font-size: 1.9rem;
+    min-width: 95vw;
+    margin-left: -4rem;
     }
 
     .titleteams2{
@@ -4908,7 +4912,9 @@ footer span a:hover{
 
   @media (max-width: 300px) {
     .titleteams{
-      font-size: 1rem;
+    font-size: 1.7rem;
+    min-width: 95vw;
+    margin-left: -4rem;
     }
 
     .titleteams2{
