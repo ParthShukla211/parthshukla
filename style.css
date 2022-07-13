@@ -6078,3 +6078,49 @@ footer span a:hover{
     }
 
   }
+              
+              
+              @media (max-width: 400px) {
+
+    .contact .max-width .title{
+      margin-left: 0rem;
+      font-size: 1.7rem;
+      margin-bottom: 1rem;
+    }
+
+  }
+
+  @media (max-width: 400px) {
+
+    .contact .max-width .title::after{
+      display: none;
+    }
+
+    .contact .max-width .title::before{
+      display: none;
+    }
+
+  }
+
+  @media (max-width: 400px) {
+
+    .about .max-width .title{
+      margin-left: 0rem;
+      font-size: 1.7rem;
+      margin-bottom: 1rem;
+    }
+
+  }
+
+  @media (max-width: 400px) {
+
+    .about .max-width .title::after{
+      display: none;
+    }
+
+    .about .max-width .title::before{
+      display: none;
+    }
+
+  }
+
