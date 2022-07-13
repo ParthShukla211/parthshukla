@@ -165,16 +165,16 @@
   }
 
   
-  @media (max-width: 330px) {
+  @media (max-width: 335px) {
   
     .contact .max-width .cuf{
       margin-left: -4rem;
     }
   
     .contact .max-width .cuf img{
-      width: 1.5rem;
+      width: 1.7rem;
       height: auto;
-      margin-right: -0.5rem;
+      margin-right: -0.7rem;
       margin-left: 0.7rem;
     }
   
