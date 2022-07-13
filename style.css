@@ -494,9 +494,10 @@ button.mainmenubutton:hover{
 .tcross{
   display: none;
   font-size: 25px;
-  margin-top: 5rem;
+  margin-top: -221vh;
+/*   margin-top: 5rem;
   margin-bottom: 131rem;
-  margin-left: 0rem;
+  margin-left: 0rem; */
 }
 
 .imgpart{
