@@ -20,16 +20,18 @@
   
     .contact .max-width .cuf{
       margin-left: 5rem;
+      display:none
     }
   
     .contact .max-width .cuf img{
       margin-right: 0.1rem;
       margin-left: 0.3rem;
+      display:none
     }
   
   }
   
-  @media (max-width: 600px) {
+/*   @media (max-width: 600px) {
   
     .contact .max-width .cuf{
       margin-left: 3rem;
@@ -197,3 +199,4 @@
     }
   
   }
+ */
