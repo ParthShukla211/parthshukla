@@ -4038,7 +4038,7 @@ footer span a:hover{
     }
 
     .mpitext{
-      font-size: 16px;
+      font-size: 21px;
       margin-right: 11px;
     }
 
@@ -4070,6 +4070,12 @@ footer span a:hover{
       font-size: 18px;
 
     }
+      
+    .achul li{
+
+      font-size: 21px;
+
+    }
 
   }
 
@@ -4094,6 +4100,8 @@ footer span a:hover{
       font-size: 15px;
 
     }
+      
+
 
   }
 
