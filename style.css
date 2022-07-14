@@ -1587,6 +1587,8 @@ input[type='checkbox'] {
 
   border-radius: 7px;
   transition: all 0.25s ease-out;
+  margin-bottom: 2rem;
+    
 }
 
 .lbl-toggle4:hover {
@@ -1669,6 +1671,9 @@ input[type='checkbox'] {
 
   border-radius: 7px;
   transition: all 0.25s ease-out;
+  margin-bottom: 2rem;
+  width: 51rem;
+  margin-left: -5rem;
 }
 
 .lbl-toggle5:hover {
@@ -2260,6 +2265,7 @@ input[type='checkbox'] {
 
   border-radius: 7px;
   transition: all 0.25s ease-out;
+  margin-bottom: 2rem;
 }
 
 .lbl-toggle12:hover {
@@ -2341,6 +2347,7 @@ input[type='checkbox'] {
 
   border-radius: 7px;
   transition: all 0.25s ease-out;
+  margin-bottom:0rem
 }
 
 .lbl-toggle13:hover {
@@ -2734,6 +2741,7 @@ input[type='checkbox'] {
 
   border-radius: 7px;
   transition: all 0.25s ease-out;
+  margin-bottom: 2rem;
 }
 
 .lbl-toggle18:hover {
