@@ -6161,5 +6161,24 @@ footer span a:hover{
     }
 
   }
+              
+  @media (max-width: 730px) {
+
+    .lbl-toggle5{
+      margin-bottom: 0rem;
+      width: 22rem;
+      margin-left: 0rem;
+      margin-top: -2rem;
+    }
+
+    .lbl-toggle11{
+      margin-top: -2rem;
+    }
+
+    .lbl-toggle17{
+      margin-top: -2rem;
+    }
+
+  }
 
 
