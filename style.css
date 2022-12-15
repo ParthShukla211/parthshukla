@@ -829,7 +829,7 @@ button.mainmenubutton:hover{
 .about .about-content .left img{
     height: 350px;
     width: 350px;
-    border-radius: 6px;
+    border-radius: 51%;
     display: inline-block;
     vertical-align: top;
 }
